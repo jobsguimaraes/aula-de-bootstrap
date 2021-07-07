@@ -1,0 +1,29 @@
+/*cores foram definidas utilizando a tabela complementar da adobe collor wheel 
+https://color.adobe.com/pt/create/color-wheel
+colors were defined using the adobe collor wheel complementary table
+https://color.adobe.com/pt/create/color-wheel  */
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #56A82D;
+}
+
+.quem-somos{
+    background-color: whitesmoke;
+    color:black;
+}
+
+.margin{   
+    padding-bottom: 50px;    
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #56A82D;
+}
+
+.bg-footer{
+    background-color: #56A82D;
+    color: white;
+}
